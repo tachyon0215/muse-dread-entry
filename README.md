@@ -20,3 +20,7 @@ Three candidates were drafted and compared against the judge brief (single-line 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## A note on the writing
+
+I wanted the comment to sound like something a tired reviewer would genuinely paste at 6 p.m., not like a joke wearing a review's clothes. So the approval comes first and stays completely flat, and the dread is delegated to a piece of infrastructure nobody owns anymore. The countdown is never explained, which is the point: real dread in a codebase is rarely announced, it just quietly starts.
